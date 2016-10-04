@@ -3,13 +3,9 @@ development:
   encoding: unicode
   database: mortgage-buddy-development
   pool: 5
-  username: g5
-  password: rocks!
 
 test:
   adapter: postgresql
   encoding: unicode
   database: mortgage-buddy-test
   pool: 5
-  username: g5
-  password: rocks!
